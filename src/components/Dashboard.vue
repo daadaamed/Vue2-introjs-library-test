@@ -1,6 +1,6 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
-    <div class="dashboard" data-intro="Here's a simple dashboard.">
+    <div class="dashboard" data-step="4" data-intro="Here's a simple dashboard.">
       <h2>Dashboard</h2>
       <!-- Your dashboard content here -->
     </div>
